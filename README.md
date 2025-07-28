@@ -1,6 +1,7 @@
 🧠 Projects
 Welcome! This repository is a growing garden of personal projects — academic, business and those just for fun.
 
+
 🎓 Academic Zone
 Here you'll find some useful explorations, like:
 
@@ -9,6 +10,7 @@ Statistics mini-labs
 Quantitative economics visuals
 and more
 
+
 💼 Business & Analytics
 This section features synthetic-data projects that I can show to the world:
 
@@ -16,6 +18,8 @@ This section features synthetic-data projects that I can show to the world:
 🚛 Supply Chain Performance Dashboards
 📈 Marketing Mix & Segmentation Analytics
 💡and more
+
+
 🛸 For the Love of Space
 I’ve got a soft spot for astronomy and astro-data. This corner is for amateur but passionate:
 
