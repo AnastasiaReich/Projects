@@ -1,5 +1,4 @@
-🧠 Projects
-Welcome! This repository is a growing garden of personal projects — academic, business and those just for fun.
+🧠Welcome! This repository is a growing garden of personal projects — academic, business and those just for fun.
 
 
 🎓 Academic Zone
